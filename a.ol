@@ -1,4 +1,5 @@
 include "console.iol"
+include "dependencieA.iol"
 
 interface aInterface {
 RequestResponse:
