@@ -1,4 +1,5 @@
 include "console.iol"
+include "locations.iol"
 
 interface aInterface {
 RequestResponse:
