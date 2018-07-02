@@ -15,7 +15,7 @@ OneWay:
 execution{concurrent}
 
 inputPort aIn {
-Location: JDEP_LOCATION_a_aIn
+Location: "socket://localhost:8001"
 Protocol: sodep
 Interfaces: aInterface
 }
