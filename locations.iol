@@ -1,5 +1,4 @@
 constants {
-  JDEP_LOCATION_a_aIn = "socket://localhost:8001",
   JDEP_LOCATION_a_bOut = "socket://localhost:8002",
   JDEP_LOCATION_b_bIn= "socket://localhost:8002",
   JDEP_LOCATION_b_cOut = "socket://localhost:8003",
